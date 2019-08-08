@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+五子棋
+![image](https://github.com/Muin613/gobang_flutter/blob/master/images/83ce1ae87bdd54f75801ec5f1237890.png)
